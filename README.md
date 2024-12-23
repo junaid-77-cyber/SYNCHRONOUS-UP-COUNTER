@@ -1,4 +1,6 @@
-### SYNCHRONOUS-UP-COUNTER
+### NAME : JUNAID SARDAR S 
+### REG.NO. 24003934
+### EXP.NO. 7 SYNCHRONOUS-UP-COUNTER
 
 **AIM:**
 
@@ -34,10 +36,11 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:
-*/
+![Screenshot 2024-12-15 185741](https://github.com/user-attachments/assets/690f7ac2-edcd-4021-bb82-0f103a6249c2)
 
 **RTL LOGIC UP COUNTER**
+
+![Screenshot 2024-12-15 185813](https://github.com/user-attachments/assets/4b673cf8-7db8-41c0-93eb-ff3c2d538f24)
 
 **TIMING DIAGRAM FOR IP COUNTER**
 
